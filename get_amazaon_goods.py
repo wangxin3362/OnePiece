@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 #_*_ coding:utf-8 _*_
-#author:Jacky
+
 
 from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.common.by import By
